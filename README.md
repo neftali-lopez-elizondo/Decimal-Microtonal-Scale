@@ -2,7 +2,7 @@
 Proposal for a solution to the "wolf interval" problem and the Pythagorean comma.
 
 **Author:** neftali-lopez-elizondo 
-**Pronouns:** he/him  
+  
 
 ## Overview
 This repository contains the research and proposal for a Decimal Microtonal Musical System aimed at resolving the Pythagorean comma. The approach explores alternative tuning structures and frequency divisions to improve harmonic consistency.
