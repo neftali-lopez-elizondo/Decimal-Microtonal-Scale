@@ -1,7 +1,7 @@
 # Decimal-Microtonal-Scale
 Proposal for a solution to the "wolf interval" problem and the Pythagorean comma.
 
-**Author:** Nef en Ciencias  
+**Author:** neftali-lopez-elizondo 
 **Pronouns:** he/him  
 
 ## Overview
