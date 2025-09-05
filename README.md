@@ -12,6 +12,11 @@ This repository presents a proposal for a solution to the "wolf interval" proble
 - `scripts/` : Code to generate scales and perform simulations.
 - `notes/` : Research notes and development history.
 
+## Objectives
+- Develop a mathematically consistent microtonal system.
+- Resolve tuning issues caused by the Pythagorean comma.
+- Provide tools and scripts for scale generation and auditory testing.
+
 ## License
 See `LICENSE` for details.
 
