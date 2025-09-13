@@ -1,0 +1,11 @@
+{
+    "name": "React-Node.js",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+    "features": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {
+            "version": "latest"
+        }
+    },
+    "forwardPorts": [5173],
+    "postCreateCommand": "npm install && npm install tailwindcss postcss autoprefixer && npx tailwindcss init -p"
+}
